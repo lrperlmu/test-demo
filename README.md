@@ -7,3 +7,5 @@ It only has a couple files, both in the root directory
 - hello.txt
 - instr-tips.txt
 - mentor-tips.txt
+- mocha-tips.txt
+- spouse-tips.txt
