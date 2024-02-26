@@ -6,3 +6,4 @@ It only has a couple files, both in the root directory
 - readme.md
 - hello.txt
 - instr-tips.txt
+- spouse-tips.txt
